@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".OutsideCar"
+    android:orientation="vertical">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/white"
+            android:orientation="vertical"
+            >
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/white"
+                android:orientation="horizontal"
+                >
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="250dp"
+                android:scaleType="fitStart"
+                android:src="@drawable/driving"/>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/survive"
+                    android:textSize="17sp"
+                    android:layout_marginTop="7dp"
+                    android:layout_marginStart="9dp"
+                    android:textColor="@color/black"
+                    android:fontFamily="serif"/>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/survive_content"
+                    android:textSize="16sp"
+                    android:padding="5dp"
+                    android:layout_margin="5dp"
+                    android:textColor="@color/black"
+                    android:fontFamily="serif"
+                    android:justificationMode="inter_word"
+                    />
+
+                <ImageView
+                    android:layout_width="599dp"
+                    android:layout_height="223dp"
+                    android:layout_gravity="center"
+
+                    android:src="@drawable/pull" />
+
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/tips_driving"
+                    android:textSize="17sp"
+                    android:textAllCaps="true"
+                    android:textStyle="bold"
+                    android:padding="5dp"
+                    android:textColor="@color/black"
+                    android:fontFamily="serif"
+                    />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/content_driving"
+                    android:padding="5dp"
+                    android:textColor="@color/black"
+                    android:fontFamily="serif"
+                    />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/drive_to_safety_slowly_if_you_re_lucky_and_the_roads_are_clear_move_the_car_away_from_utility_poles_power_lines_and_buildings_don_t_stop_on_or_under_bridges_and_overpasses_and_make_sure_you_re_parked_on_stable_ground_turn_off_the_car_and_wait"
+                    android:padding="5dp"
+                    android:textColor="@color/black"
+                    android:fontFamily="serif"
+                    />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/stay_in_the_car_if_you_can_reach_a_sturdy_structure_before_the_tremors_get_serious_do_so_if_not_stay_belted_in_the_suspension_will_absorb_the_jolts_and_the_steel_crash_cage_provides_protection_against_minor_debris_like_glass_and_rubble_curl_up_and_protect_your_head_with_your_hands_if_there_s_space_lie_across_the_seats_and_get_as_low_as_possible"
+                    android:padding="5dp"
+                    android:textColor="@color/black"
+                    android:fontFamily="serif"
+                    />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/if_the_car_has_been_severely_damaged_by_the_quake_move_away_fumes_from_spilled_gasoline_are_both_a_health_and_a_fire_hazard_if_you_are_trapped_inside_your_car_keep_your_engine_off_to_prevent_carbon_monoxide_poisoning_and_try_to_signal_rescuers_with_your_horn"
+                    android:padding="5dp"
+                    android:textColor="@color/black"
+                    android:fontFamily="serif"
+                    />
+
+
+
+
+
+
+
+
+
+
+
+            </LinearLayout>
+
+
+
+
+
+
+
+
+
+
+
+
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>
