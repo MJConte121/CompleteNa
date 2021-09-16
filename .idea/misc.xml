@@ -3,12 +3,36 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/Kathleen Atienza/StudioProjects/alert/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.19282051282051282" />
-        <entry key="..\:/Users/Kathleen Atienza/StudioProjects/alert/app/src/main/res/drawable/buttons_background.xml" value="0.14722222222222223" />
-        <entry key="..\:/Users/Kathleen Atienza/StudioProjects/alert/app/src/main/res/drawable/ic_baseline_menu_24.xml" value="0.19282051282051282" />
-        <entry key="..\:/Users/Kathleen Atienza/StudioProjects/alert/app/src/main/res/drawable/ic_launcher_background.xml" value="0.19282051282051282" />
-        <entry key="..\:/Users/Kathleen Atienza/StudioProjects/alert/app/src/main/res/layout/activity_main.xml" value="0.4466666666666667" />
-        <entry key="..\:/Users/Kathleen Atienza/StudioProjects/alert/app/src/main/res/layout/toolbar.xml" value="0.25" />
+        <entry key="..\:/Users/Kathleen Atienza/StudioProjects/last/app/src/main/res/drawable/buttons_bg.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/Kathleen Atienza/StudioProjects/last/app/src/main/res/drawable/contentbutton_bg.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/Kathleen Atienza/StudioProjects/last/app/src/main/res/drawable/ic_baseline_campaign_24.xml" value="0.18177083333333333" />
+        <entry key="..\:/Users/Kathleen Atienza/StudioProjects/last/app/src/main/res/drawable/ic_baseline_connect_without_contact_24.xml" value="0.22870370370370371" />
+        <entry key="..\:/Users/Kathleen Atienza/StudioProjects/last/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.22870370370370371" />
+        <entry key="..\:/Users/Kathleen Atienza/StudioProjects/last/app/src/main/res/drawable/ic_baseline_phone_24.xml" value="0.22870370370370371" />
+        <entry key="..\:/Users/Kathleen Atienza/StudioProjects/last/app/src/main/res/layout/activity_act_eq.xml" value="0.1796875" />
+        <entry key="..\:/Users/Kathleen Atienza/StudioProjects/last/app/src/main/res/layout/activity_act_eq2.xml" value="0.1796875" />
+        <entry key="..\:/Users/Kathleen Atienza/StudioProjects/last/app/src/main/res/layout/activity_after_earthquake.xml" value="0.264" />
+        <entry key="..\:/Users/Kathleen Atienza/StudioProjects/last/app/src/main/res/layout/activity_before_earthquake.xml" value="0.12291666666666666" />
+        <entry key="..\:/Users/Kathleen Atienza/StudioProjects/last/app/src/main/res/layout/activity_checklist.xml" value="0.12364130434782608" />
+        <entry key="..\:/Users/Kathleen Atienza/StudioProjects/last/app/src/main/res/layout/activity_drop_cover_holdon.xml" value="0.4" />
+        <entry key="..\:/Users/Kathleen Atienza/StudioProjects/last/app/src/main/res/layout/activity_dropcover_hold_on.xml" value="0.1796875" />
+        <entry key="..\:/Users/Kathleen Atienza/StudioProjects/last/app/src/main/res/layout/activity_earthquake.xml" value="0.264" />
+        <entry key="..\:/Users/Kathleen Atienza/StudioProjects/last/app/src/main/res/layout/activity_fire.xml" value="0.13949275362318841" />
+        <entry key="..\:/Users/Kathleen Atienza/StudioProjects/last/app/src/main/res/layout/activity_flood.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Kathleen Atienza/StudioProjects/last/app/src/main/res/layout/activity_help.xml" value="0.12364130434782608" />
+        <entry key="..\:/Users/Kathleen Atienza/StudioProjects/last/app/src/main/res/layout/activity_hotlines.xml" value="0.1" />
+        <entry key="..\:/Users/Kathleen Atienza/StudioProjects/last/app/src/main/res/layout/activity_inside_car.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Kathleen Atienza/StudioProjects/last/app/src/main/res/layout/activity_landslide.xml" value="0.1" />
+        <entry key="..\:/Users/Kathleen Atienza/StudioProjects/last/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Kathleen Atienza/StudioProjects/last/app/src/main/res/layout/activity_news.xml" value="0.1796875" />
+        <entry key="..\:/Users/Kathleen Atienza/StudioProjects/last/app/src/main/res/layout/activity_outside_car.xml" value="0.4" />
+        <entry key="..\:/Users/Kathleen Atienza/StudioProjects/last/app/src/main/res/layout/activity_typhoon.xml" value="0.13949275362318841" />
+        <entry key="..\:/Users/Kathleen Atienza/StudioProjects/last/app/src/main/res/layout/activity_volcanic_eruption.xml" value="0.2" />
+        <entry key="..\:/Users/Kathleen Atienza/StudioProjects/last/app/src/main/res/layout/fragment_drop_cover.xml" value="0.17760416666666667" />
+        <entry key="..\:/Users/Kathleen Atienza/StudioProjects/last/app/src/main/res/layout/fragment_drop_coverhold_on.xml" value="0.1" />
+        <entry key="..\:/Users/Kathleen Atienza/StudioProjects/last/app/src/main/res/layout/fragment_inside_car.xml" value="0.1796875" />
+        <entry key="..\:/Users/Kathleen Atienza/StudioProjects/last/app/src/main/res/layout/header.xml" value="0.165625" />
+        <entry key="..\:/Users/Kathleen Atienza/StudioProjects/last/app/src/main/res/menu/drawer_menu.xml" value="0.5" />
       </map>
     </option>
   </component>

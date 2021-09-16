@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DropCoverHoldon"
+    android:orientation="vertical">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:orientation="vertical"
+        >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:orientation="horizontal"
+        >
+
+        <pl.droidsonroids.gif.GifImageView
+            android:layout_width="wrap_content"
+            android:layout_height="275dp"
+            android:scaleType="fitStart"
+            android:src="@drawable/dropcover"
+            tools:ignore="MissingConstraints">
+
+
+        </pl.droidsonroids.gif.GifImageView>
+
+
+    </LinearLayout>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/earthquake_early_warning_gives_people_time_to_drop_cover_and_hold_on_until_the_shaking_stops_preventing_injuries_animation_courtesy_of_google"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:paddingBottom="10dp"
+            android:fontFamily="serif"
+            android:textSize="8sp">
+
+        </TextView>
+
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/earthquake_duck_cover_and_hold_tips"
+            android:textSize="17sp"
+            android:layout_marginTop="7dp"
+            android:layout_marginStart="9dp"
+            android:textColor="@color/black"
+            android:fontFamily="serif"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/firstpg_dch"
+            android:textSize="16sp"
+            android:padding="5dp"
+            android:layout_margin="5dp"
+            android:textColor="@color/black"
+            android:fontFamily="serif"
+            android:justificationMode="inter_word"
+            />
+        <ImageView
+            android:layout_width="390dp"
+            android:layout_gravity="center"
+            android:layout_height="150dp"
+            android:src="@drawable/dch_1"/>
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/duck_cover_hold_on"
+            android:textSize="17sp"
+            android:textAllCaps="true"
+            android:textStyle="bold"
+            android:padding="5dp"
+            android:textColor="@color/black"
+            android:fontFamily="serif"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/duck"
+            android:textSize="15sp"
+            android:padding="5dp"
+            android:textColor="@color/black"
+            android:fontFamily="serif"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/cover"
+            android:textSize="17sp"
+            android:textAllCaps="true"
+            android:textStyle="bold"
+            android:padding="5dp"
+            android:textColor="@color/black"
+            android:fontFamily="serif"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/cover_content"
+            android:textSize="15sp"
+            android:padding="5dp"
+            android:textColor="@color/black"
+            android:fontFamily="serif"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/hold"
+            android:textSize="17sp"
+            android:textAllCaps="true"
+            android:textStyle="bold"
+            android:padding="5dp"
+            android:textColor="@color/black"
+            android:fontFamily="serif"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/hold_content"
+            android:textSize="15sp"
+            android:padding="5dp"
+            android:textColor="@color/black"
+            android:fontFamily="serif"
+            />
+
+
+
+
+
+
+    </LinearLayout>
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </LinearLayout>
+    </ScrollView>
+</LinearLayout>

@@ -1,3 +1,101 @@
 <resources>
-    <string name="app_name">alert</string>
+    <string name="app_name">last</string>
+    <string name="home">Home</string>
+    <string name="flood">FLOOD</string>
+    <string name="earthquake">EARTHQUAKE</string>
+    <string name="landslide">LANDSLIDE</string>
+    <string name="typhoon">TYPHOON</string>
+    <string name="fire">FIRE</string>
+    <string name="eruption">ERUPTION</string>
+    <string name="volcanic">VOLCANIC</string>
+    <string name="picture_of_earthquake">Picture of Earthquake</string>
+    <string name="picture_of_landslide">Picture of landslide</string>
+    <string name="picture_of_typhoon">Picture of typhoon</string>
+    <string name="volcano">Volcano</string>
+    <string name="picture_of_fire">Picture of fire</string>
+    <string name="picture_of_flood">Picture of flood</string>
+    <string name="earthquakepicture">Earthquakepicture</string>
+    <string name="drop_cover_hold_on">Drop, Cover, Hold On</string>
+    <string name="after_an_earthquake">Before, After, During</string>
+    <string name="outside_or_in_a_car">Inside a Car</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="earthquake_early_warning_gives_people_time_to_drop_cover_and_hold_on_until_the_shaking_stops_preventing_injuries_animation_courtesy_of_google">Earthquake early warning gives people time to drop, cover and hold on until the shaking stops, preventing injuries. (Animation courtesy of Google)</string>
+    <string name="earthquake_duck_cover_and_hold_tips">Earthquake: Drop, Cover, and Hold Tips</string>
+    <string name="duck_cover_hold_on"> Drop. </string>
+    <string name="duck"> DUCK or drop down to the floor. </string>
+    <string name="cover"> Cover </string>
+    <string name="cover_content"> Take COVER under a sturdy desk, table, or other furniture, if that is not possible, seek COVER against an interior wall and protect your head and neck with your arms. Avoid danger spots near windows, hanging objects, mirrors, or tall furniture. </string>
+    <string name="hold"> Hold </string>
+    <string name="hold_content"> If you take cover under a sturdy piece of furniture, HOLD on to it and be prepared to move with it. HOLD the position until the ground stops shaking and it is safe to move. </string>
+
+
+    <string name="firstpg_dch">Whether you are in your home, a school classroom, a high-rise or other type of building, it is important to know how to protect yourself during an earthquake. Practice what to do during an earthquake and teach yourself and your family members to react automatically when the shaking starts. If you are outdoors when the shaking starts, get into an open area away from trees, buildings, walls, and power lines. If you are indoors, follow the steps below:</string>
+    <string name="survive">How to survive an earthquake while you\'re inside your vehicle</string>
+    <string name="survive_content">We all know what we\'re supposed to do in an earthquake: stop, duck and cover. But when you\'re in a moving car during a seismic activity, what to do isn\'t as clear. And the movement of the car often masks the onset of the quake, so by the time you\'re aware of it, it\'s often too late to find shelter. So what do you do?</string>
+    <string name="content_driving">An earthquake while driving may feel like something is wrong with your car. Take note of your surroundings. You’ll feel jolting and potentially see swaying or falling objects. Slow down until you can safely pull over and stop. Avoid parking near overpasses, powerlines, bridges and buildings. Your car will provide little protection from heavy falling objects. Turn off the engine and put the handbrake on. Stay in your car until the shaking stops. If a power line falls on your vehicle, remain inside until a trained person can remove the wire. Turn on the radio and heed any warnings or directions from officials. After the shaking stops, it’s probably best to stay put, depending on the level of damage around you. Keep emergency response routes clear and be aware of potential hazards, such as downed power lines, falling debris and collapsing infrastructure.</string>
+    <string name="tips_driving">Here are a few tips for staying safe when earthquake hits while you\'re driving:</string>
+    <string name="drive_to_safety_slowly_if_you_re_lucky_and_the_roads_are_clear_move_the_car_away_from_utility_poles_power_lines_and_buildings_don_t_stop_on_or_under_bridges_and_overpasses_and_make_sure_you_re_parked_on_stable_ground_turn_off_the_car_and_wait">* Drive to safety slowly. If you\'re lucky and the roads are clear, move the car away from utility poles, power lines and buildings. Don\'t stop on or under bridges and overpasses, and make sure you\'re parked on stable ground. Turn off the car and wait.</string>
+    <string name="if_the_car_has_been_severely_damaged_by_the_quake_move_away_fumes_from_spilled_gasoline_are_both_a_health_and_a_fire_hazard_if_you_are_trapped_inside_your_car_keep_your_engine_off_to_prevent_carbon_monoxide_poisoning_and_try_to_signal_rescuers_with_your_horn">* If the car has been severely damaged by the quake, move away. Fumes from spilled gasoline are both a health and a fire hazard. If you are trapped inside your car, keep your engine off to prevent carbon-monoxide poisoning and try to signal rescuers with your horn.</string>
+    <string name="stay_in_the_car_if_you_can_reach_a_sturdy_structure_before_the_tremors_get_serious_do_so_if_not_stay_belted_in_the_suspension_will_absorb_the_jolts_and_the_steel_crash_cage_provides_protection_against_minor_debris_like_glass_and_rubble_curl_up_and_protect_your_head_with_your_hands_if_there_s_space_lie_across_the_seats_and_get_as_low_as_possible">* Stay in the car. If you can reach a sturdy structure before the tremors get serious, do so. If not, stay belted in. The suspension will absorb the jolts, and the steel crash cage provides protection against minor debris like glass and rubble. Curl up and protect your head with your hands. If there\'s space, lie across the seats and get as low as possible.</string>
+    <string name="before_eq"> ● Develop a family earthquake plan.
+        ● Prepare yourself and your home by completing the activities on this checklist.
+       ● Decide how and where your family will reunite if separated.
+        Choose an out-of-area friend or relative who separated family members can call after the quake to report their whereabouts and condition.
+         ● Know the safe spots in each room: under sturdy tables, desks, or against inside walls. Know the danger spots: windows, mirrors, hanging objects, fireplaces and tall, unsecured furniture.
+         ● Conduct practice drills.
+         ● Physically place yourself in safe locations.
+         ● Learn first aid and CPR (cardiopulmonary resuscitation) from your local  Red Cross chapter or other community organization.
+         ● Keep a list of emergency phone numbers.
+          ● Learn how to shut off gas, water and electricity in case the lines are damaged. (Safety note: Do not attempt to relight a gas pilot).
+         ● Secure water heaters and appliances that could move enough to rupture lines.
+         ● Secure heavy furniture, hanging plants, heavy pictures or mirrors.
+         ●  Keep flammable or hazardous liquids in cabinets or on lower shelves.
+        ● Maintain emergency food, water and other supplies, including a flashlight, a portable battery-operated radio, extra batteries, medicines, first aid kit and clothing.
+
+
+    </string>
+    <string name="what_should_you_do_during_an_earthquake">What Should You Do During an Earthquake?</string>
+    <string name="during">If indoors, stay there and take cover under a table, desk, or other sturdy furniture.
+        \n● Face away from windows and glass doors. A doorway without a door is an acceptable location in which to stand.
+        ● Lie, kneel or sit near a structurally sound interior wall or corner away from windows, brick fireplaces, glass walls, etc.
+        ● Protect your head and body from falling or flying objects. Remain where you are until shaking stops.
+         ● Think out your plan of action first, then move. Know exit routes if in a commercial building.
+         ● Take cover and don\'t move until the shaking stops.
+             ● If outside, get into an open area away from trees, buildings, walls and power lines.
+        ● Lie down or crouch low to maintain balance.
+            ● Get to the best available shelter if there is no open area available.
+         ● If driving, stop safely as soon as possible.
+        ● Stay inside your vehicle until the shaking stops.
+        ● Do not stop your vehicle under overpasses or bridges.
+         ● Stay below window level in your vehicle.
+         ● Turn off the engine and turn on the radio.
+         ● Follow emergency instructions.
+         ● Stay in the vehicle if downed power lines have fallen across it.
+         ● Do not touch metal. Wait for help. You might be able to back away from lines.
+         ● If you have to leave your vehicle, move to an open area quickly
+    </string>
+    <string name="after"> Check for injuries.
+        Render first aid.
+        Do not move seriously injured victims unless they are in immediate danger.
+        Do not use the telephone immediately unless there is a serious injury, fire or other emergency.
+        Hunt for hazards.
+       Check for other hazards and control them (fire, chemical spills, toxic fumes and possible collapse).
+        Check utilities (water, gas, electric).
+        If there is damage, turn the utility off at the source.
+        Check for other hazards and control them (fire, chemical spills, toxic fumes and possible collapse).
+        Check building for cracks and damage, including roof, chimneys, and foundation. Check food and water supplies.
+        Emergency water can be obtained from water heaters, melted ice cubes, canned vegetables, and toilet tanks.
+        Never use matches, lighters or candles inside.
+        Turn on the radio and listen for emergency broadcasts/announcements, news reports, and instructions.
+        Cooperate with public safety officials. Do not use your vehicle unless there is an emergency.
+        Keep the streets clear for emergency vehicles.
+        If buildings are suspect, set up your shelter area away from damage.
+        Work with your neighbors for a quicker recovery.
+        Stay calm and lend a hand to others.
+        Plan for evacuation in case events make this necessary. Leave written messages for other family members or searchers.
+        Use gloves, wear heavy shoes, and have adequate and appropriate clothing available. </string>
+
+    <string name="what_should_you_do_after_an_earthquake">What Should You Do After an Earthquake?</string>
+    <string name="what_should_you_do_before_an_earthquake">What Should You Do Before an Earthquake?</string>
 </resources>

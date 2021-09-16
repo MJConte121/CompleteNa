@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".OutsideCar"
+    android:orientation="vertical">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/white"
+            android:orientation="vertical"
+            >
+
+            <LinearLayout
+                android:layout_width="435dp"
+                android:layout_height="wrap_content"
+                android:background="@color/white"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="300dp"
+                    android:scaleType="fitStart"
+                    android:src="@drawable/aftereq" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/what_should_you_do_before_an_earthquake"
+                    android:textSize="17sp"
+                    android:layout_marginTop="7dp"
+                    android:layout_marginStart="9dp"
+                    android:textColor="@color/black"
+                    android:fontFamily="serif"/>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/before_eq"
+                    android:textSize="16sp"
+                    android:padding="5dp"
+                    android:layout_margin="5dp"
+                    android:textColor="@color/black"
+                    android:fontFamily="serif"
+
+                    />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/what_should_you_do_during_an_earthquake"
+                    android:textSize="17sp"
+                    android:layout_marginTop="7dp"
+                    android:layout_marginStart="9dp"
+                    android:textColor="@color/black"
+                    android:fontFamily="serif"/>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/during"
+                    android:textSize="16sp"
+                    android:padding="5dp"
+                    android:layout_margin="5dp"
+                    android:textColor="@color/black"
+                    android:fontFamily="serif"
+
+                    />
+
+
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/what_should_you_do_after_an_earthquake"
+                    android:textSize="17sp"
+                    android:layout_marginTop="7dp"
+                    android:layout_marginStart="9dp"
+                    android:textColor="@color/black"
+                    android:fontFamily="serif"/>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/after"
+                    android:textSize="16sp"
+                    android:padding="5dp"
+                    android:layout_margin="5dp"
+                    android:textColor="@color/black"
+                    android:fontFamily="serif"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+            </LinearLayout>
+
+
+
+
+
+
+
+
+
+
+
+
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>
